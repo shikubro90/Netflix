@@ -1,4 +1,4 @@
-import "./app.scss"
+import "./"
 import Home from "./home/Home";
 
 const App = () => {
