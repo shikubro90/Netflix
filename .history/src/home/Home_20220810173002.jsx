@@ -9,7 +9,7 @@ const Home = () => {
       <Navbar/>
       <Featured type="Series" />
       <List/>
-      <List/>
+
       <List/>
     </div>
   )

@@ -10,7 +10,8 @@ const Home = () => {
       <Featured type="Series" />
       <List/>
       <List/>
-      <List/>
+      
+
     </div>
   )
 }

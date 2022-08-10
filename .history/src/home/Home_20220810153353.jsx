@@ -1,6 +1,6 @@
-import "./home.scss"
 import Navbar from "../components/Navbar/Navbar"
 import Featured from "../components/Featured/Featured"
+import "./home.scss"
 import List from "../components/List/List"
 
 const Home = () => {
@@ -8,8 +8,6 @@ const Home = () => {
     <div className='home'>
       <Navbar/>
       <Featured type="Series" />
-      <List/>
-      <List/>
       <List/>
     </div>
   )
